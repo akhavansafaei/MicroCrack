@@ -93,5 +93,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or feedback, please contact [team@example.com](mailto:team@example.com).
+- For questions or feedback, please contact [alirezaakhavansafaei@gmail.com](mailto:alirezaakhavansafaei@gmail.com).
+- visit our site: studylab.ir
 
