@@ -12,30 +12,6 @@ This project is focused on detecting microcracks in solar cells using advanced p
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.8 or higher
-- Libraries: `torch`, `torchvision`, `opencv-python`, `numpy`, `pandas`, `tqdm`, `matplotlib`, `scikit-learn`
-
-Install required libraries using:
-```bash
-pip install -r requirements.txt
-```
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/solar-cell-microcrack-detection.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd solar-cell-microcrack-detection
-   ```
-
----
 
 ## Project Structure
 
